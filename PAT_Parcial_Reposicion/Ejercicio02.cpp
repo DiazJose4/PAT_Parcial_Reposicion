@@ -2,5 +2,5 @@
 
 Node<char>* Ejercicio02::reverseKGroup(Node<char>* head, int k)
 {
-    return head;
+    return nullptr;
 }
